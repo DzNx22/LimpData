@@ -29,13 +29,12 @@ Sem cadastro, sem internet, e nenhum dado sai do seu computador.
 
 ## ✨ Por que usar
 
-|---|---|
-| 📋 **Copiar e colar** | Cole direto do Excel ou do Google Sheets e cole o resultado de volta. A ordem e a quantidade de linhas são preservadas. |
-| 🔒 **Privado por padrão** | Funciona 100% offline. Não usa APIs externas, não grava logs com os seus dados e não salva o que você colou. |
-| 🚦 **Nada some em silêncio** | A prévia mostra só o resultado a copiar. Registros inválidos ficam destacados em vermelho e ganham uma coluna **Observação** com o motivo; se tudo estiver válido, ela nem aparece. |
-| 📊 **Resumo na hora** | Contagem de registros processados, válidos, inválidos, vazios e duplicados. |
-| 🌗 **Modo claro e escuro** | Alterne no rodapé; a barra de título do Windows acompanha o tema e o app lembra a sua escolha. |
-| ↹ **Pronto para planilhas** | Quando há mais de uma coluna de saída, os campos são separados por tabulação. |
+- 📋 **Copiar e colar**: cole direto do Excel ou do Google Sheets e cole o resultado de volta. A ordem e a quantidade de linhas são preservadas.
+- 🔒 **Privado por padrão**: funciona 100% offline. Não usa APIs externas, não grava logs com os seus dados e não salva o que você colou.
+- 🚦 **Nada some em silêncio**: a prévia mostra só o resultado a copiar. Registros inválidos ficam destacados em vermelho, com o motivo na coluna **Observação**; se tudo estiver válido, ela nem aparece.
+- 📊 **Resumo na hora**: contagem de registros processados, válidos, inválidos, vazios e duplicados.
+- 🌗 **Modo claro e escuro**: alterne no rodapé; o app lembra a sua escolha.
+- ↹ **Pronto para planilhas**: quando há mais de uma coluna de saída, os campos são separados por tabulação.
 
 ## 🧰 O que ele normaliza
 
