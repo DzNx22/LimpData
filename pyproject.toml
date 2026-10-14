@@ -1,6 +1,6 @@
 [project]
 name = "limpdata"
-version = "0.1.1"
+version = "0.1.2"
 description = "Normalização de dados de planilhas, offline e sem cadastro."
 readme = "README.md"
 license = "MIT"

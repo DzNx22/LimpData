@@ -14,6 +14,7 @@ Sem cadastro, sem internet, e nenhum dado sai do seu computador.
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?logo=windows&logoColor=white)
 ![Licença MIT](https://img.shields.io/badge/licen%C3%A7a-MIT-yellow)
 ![Offline](https://img.shields.io/badge/100%25-offline-success)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23373699.svg)](https://doi.org/10.5281/zenodo.23373699)
 
 ### [⬇️ Baixar o LimpData para Windows](../../releases/latest/download/LimpData.exe)
 
@@ -141,7 +142,7 @@ O repositório guarda só o código-fonte. O `.exe` é gerado pelo **GitHub Acti
 
 ### Publicar uma nova versão
 
-1. Atualize a versão em [`limpdata/__init__.py`](limpdata/__init__.py) (`__version__`) e em [`pyproject.toml`](pyproject.toml).
+1. Atualize a versão em [`limpdata/__init__.py`](limpdata/__init__.py) (`__version__`), em [`pyproject.toml`](pyproject.toml) e em [`CITATION.cff`](CITATION.cff).
 2. Faça o commit e envie para o GitHub.
 3. Crie e envie a tag com o mesmo número:
 
@@ -214,6 +215,14 @@ main.py                   # ponto de entrada (usado pelo PyInstaller)
 
 - [ ] 📞 Telefones brasileiros (DDD, +55, nacional/internacional, WhatsApp/SMS, máscara personalizada)
 - [ ] 🏢 CNPJ (validação e formatação)
+
+## 📝 Como citar
+
+Cada versão publicada é arquivada no [Zenodo](https://doi.org/10.5281/zenodo.23373699) com um DOI próprio. Para citar o projeto (sempre a versão mais recente):
+
+> Barbosa, D. *LimpData: limpeza de dados de planilhas, offline*. Zenodo. https://doi.org/10.5281/zenodo.23373699
+
+O botão **Cite this repository**, na lateral do GitHub, gera a citação em APA e BibTeX a partir do [`CITATION.cff`](CITATION.cff).
 
 ## 📄 Licença
 

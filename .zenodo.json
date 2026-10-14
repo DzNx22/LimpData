@@ -1,0 +1,25 @@
+{
+  "title": "LimpData: limpeza de dados de planilhas, offline",
+  "upload_type": "software",
+  "description": "<p>Aplicativo desktop gratuito e open source para Windows que normaliza e valida dados copiados de planilhas: limpeza geral de texto, e-mails, nomes próprios e CPF. Funciona 100% offline, sem cadastro, e nenhum dado sai do computador do usuário.</p>",
+  "creators": [
+    {
+      "name": "Barbosa, Denzell A. S.",
+      "affiliation": "DB Sites",
+      "orcid": "0009-0008-5244-7038"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "language": "por",
+  "keywords": [
+    "limpeza de dados",
+    "normalização de dados",
+    "planilhas",
+    "validação de CPF",
+    "validação de e-mail",
+    "data cleaning",
+    "Python",
+    "PySide6"
+  ]
+}

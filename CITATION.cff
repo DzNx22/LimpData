@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Se você usar este software, cite-o como abaixo."
+type: software
+title: "LimpData: limpeza de dados de planilhas, offline"
+abstract: >-
+  Aplicativo desktop gratuito e open source para Windows que normaliza e
+  valida dados copiados de planilhas: limpeza geral de texto, e-mails, nomes
+  próprios e CPF. Funciona 100% offline.
+authors:
+  - family-names: Barbosa
+    given-names: Denzell A. S.
+    name: "Barbosa, Denzell A. S."
+    affiliation: DB Sites
+    orcid: "https://orcid.org/0009-0008-5244-7038"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23373699
+    description: DOI de todas as versões (sempre aponta para a mais recente)
+repository-code: "https://github.com/DzNx22/LimpData"
+license: MIT
+version: 0.1.2
+keywords:
+  - limpeza de dados
+  - normalização de dados
+  - planilhas
+  - data cleaning
