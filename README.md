@@ -29,7 +29,6 @@ Sem cadastro, sem internet, e nenhum dado sai do seu computador.
 
 ## ✨ Por que usar
 
-| | |
 |---|---|
 | 📋 **Copiar e colar** | Cole direto do Excel ou do Google Sheets e cole o resultado de volta. A ordem e a quantidade de linhas são preservadas. |
 | 🔒 **Privado por padrão** | Funciona 100% offline. Não usa APIs externas, não grava logs com os seus dados e não salva o que você colou. |
