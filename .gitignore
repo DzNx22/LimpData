@@ -1,0 +1,28 @@
+# Só o código-fonte vai para o repositório. O executável é gerado pelo
+# GitHub Actions (.github/workflows/release.yml) e publicado em Releases.
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Testes
+.pytest_cache/
+.coverage
+htmlcov/
+
+# PyInstaller (o limpdata.spec do projeto é versionado)
+build/
+dist/
+*.exe
+
+# Editores e sistema
+.vscode/
+.idea/
+*.log
+Thumbs.db
+desktop.ini
+.DS_Store

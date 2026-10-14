@@ -1,0 +1,11 @@
+[project]
+name = "limpdata"
+version = "0.1.0"
+description = "Normalização de dados de planilhas, offline e sem cadastro."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
